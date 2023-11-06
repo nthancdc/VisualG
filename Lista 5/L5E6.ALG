@@ -16,7 +16,7 @@ se ( n <= 50 ) entao
    enquanto ( n * 3 <= 250 ) faca
          mult <- n * 3
          escreval ( n, " * ", "3 é ", mult )
-         n <- n + 1
+         n <- n * 3
    fimenquanto
 senao
 escreval ( "Número inserido incorreto " )
