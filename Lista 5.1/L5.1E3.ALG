@@ -18,23 +18,23 @@ c <- n / 100
 
 escolha ( c )
         caso 1
-             escreval ( "O número das centenas é 100" )
+             escreval ( "O número das centenas é o CEM" )
         caso 2
-             escreval ( "O número das centenas é 200" )
+             escreval ( "O número das centenas é o DUZENTOS" )
         caso 3
-             escreval ( "O número das centenas é 300" )
+             escreval ( "O número das centenas é o TREZENTOS" )
         caso 4
-             escreval ( "O número das centenas é 400" )
+             escreval ( "O número das centenas é o QUATROCENTOS" )
         caso 5
-             escreval ( "O número das centenas é 500" )
+             escreval ( "O número das centenas é o QUINHENTOS" )
         caso 6
-             escreval ( "O número das centenas é 600" )
+             escreval ( "O número das centenas é o SEISCENTOS" )
         caso 7
-             escreval ( "O número das centenas é 700" )
+             escreval ( "O número das centenas é o SETECENTOS" )
         caso 8
-             escreval ( "O número das centenas é 800" )
+             escreval ( "O número das centenas é o OITOCENTOS" )
         caso 9
-             escreval ( "O número das centenas é 900" )
+             escreval ( "O número das centenas é o NOVECENTOS" )
         outrocaso
              escreval ( "O número inserido não tem 3 dígitos" )
 fimescolha
